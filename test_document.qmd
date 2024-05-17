@@ -1,0 +1,9 @@
+---
+title: "test_document"
+author: 'Michael Aguirre'
+format: html
+---
+
+```{r}
+library(tidyverse)
+```
